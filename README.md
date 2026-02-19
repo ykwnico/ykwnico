@@ -1,50 +1,27 @@
-# 👋 Olá! Me chame de nico!
+# 🦀 Olá! Eu sou o Nicolas
 
-Sou um **desenvolvedor em formação**, com foco em **desenvolvimento web**, sempre buscando evoluir através de estudos, prática e projetos reais.
+Sou um **desenvolvedor em formação** focado em desenvolvimento web.
 
-Atualmente curso o **Técnico em Desenvolvimento de Sistemas (SENAI)** e já concluí o **Ensino Médio Técnico em TI**, onde tive contato com lógica de programação, banco de dados e desenvolvimento web.
+## Sobre mim
 
----
+Estudo **Técnico em Desenvolvimento de Sistemas (SENAI)** e busco sempre aprender mais com projetos reais e estudos constantes.  
+Estou no caminho de melhorar minhas habilidades em front-end e entrar no mercado de tecnologia.
 
-## 🚀 Sobre mim
+## 🧠 Tecnologias que uso!
 
-- 💻 Desenvolvedor web em formação  
-- 🎓 Técnico em Desenvolvimento de Sistemas — SENAI  
-- 📚 Estudando e praticando diariamente  
-- 🧠 Interesse em aprender boas práticas e construir projetos funcionais  
-- 🔍 Buscando oportunidades de estágio e crescimento na área de tecnologia  
+- FIGMA
+- HTML
+- CSS
+- JavaScript
 
----
+## Meus objetivos!
 
-## 🛠️ Tecnologias & Conhecimentos
+- Evoluir na área de desenvolvimento web
+- Construir projetos funcionais e úteis
+- Conseguir oportunidade de estágio
 
-- **Front-end:**  
-  - HTML  
-  - CSS  
-  - JavaScript  
+## Fique a vontade para explorar!
 
-- **Outros conhecimentos:**  
-  - Lógica de programação  
-  - Noções de banco de dados e SQL  
-  - Versionamento com Git e GitHub  
+Confira meus repositórios e espero que goste dos projetos!
 
 ---
-
-## 📂 Projetos
-
-Aqui no meu GitHub você vai encontrar:
-
-- Projetos acadêmicos  
-- Trabalhos em grupo  
-- Exercícios práticos  
-- Experimentos pessoais para aprendizado  
-
----
-
-## 📈 Objetivo
-
-Meu objetivo é **consolidar minha base em desenvolvimento web**, ganhar experiência prática e ingressar no mercado de trabalho através de um **estágio em tecnologia**, continuando meus estudos e aprimorando minhas habilidades.
-
----
-
-⭐ Fique à vontade para explorar meus repositórios!
