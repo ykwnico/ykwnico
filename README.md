@@ -1,27 +1,23 @@
-# 🦀 Olá! Eu sou o Nicolas
+# 🐲 Hi, I'm Nicolas
 
-Sou um **desenvolvedor em formação** focado em desenvolvimento web.
+I'm a developer in training focused on web development.
 
-## Sobre mim
+## About me
 
-Estudo **Técnico em Desenvolvimento de Sistemas (SENAI)** e busco sempre aprender mais com projetos reais e estudos constantes.  
-Estou no caminho de melhorar minhas habilidades em front-end e entrar no mercado de tecnologia.
+Currently studying Systems Development at SENAI.  
+I enjoy building projects to improve my skills and gain real-world experience.
 
-## 🧠 Tecnologias que uso!
+## Technologies
 
-- FIGMA
-- HTML
-- CSS
-- JavaScript
+- Figma
+- HTML  
+- CSS  
+- JavaScript  
 
-## Meus objetivos!
+## Goals
 
-- Evoluir na área de desenvolvimento web
-- Construir projetos funcionais e úteis
-- Conseguir oportunidade de estágio
+- Grow as a web developer  
+- Build clean and functional projects  
+- Land an internship opportunity in tech  
 
-## Fique a vontade para explorar!
-
-Confira meus repositórios e espero que goste dos projetos!
-
----
+Feel free to check out my repositories.
