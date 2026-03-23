@@ -25,7 +25,7 @@ Feel free to check out my repositories.
  <div>
    <a href="https://github.com/ykwnico">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ykwnico&show_icons=true&theme=radical"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykwnico&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykwnico&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
