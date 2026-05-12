@@ -22,12 +22,6 @@ I enjoy building projects to improve my skills and gain real-world experience.
 
 Feel free to check out my repositories.
 
-<div>
-   <a href="https://github.com/ykwnico">
-   <img border="none" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykwnico&layout=compact&theme=dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ykwnico&show_icons=true&theme=dark"/>
-</div>
-
 <div style="display: inline-flex; gap: 10px; align-items: center;">
   <img alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
