@@ -30,7 +30,7 @@ Feel free to check out my repositories.
   <img alt="React" height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img alt="Figma" height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
   <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvinjxr8MVZ69diNIbNNMfcUljy04dIjkqPQ&s" alt="">
-  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="">
-  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="">
   
 </div>
